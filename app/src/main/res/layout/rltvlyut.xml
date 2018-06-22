@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+</RelativeLayout>
+
+
+<!--
+we created this relative layout by going to layout folder >> new >> layout resource file
+set the name and that name will replace the setContentView(R.layout.activity_main_xml); in the MainActivity.java file
+    to   setContentView(R.layout.rltvlyut);
+set the root element to relative layout
+
+
+
+
+-->
